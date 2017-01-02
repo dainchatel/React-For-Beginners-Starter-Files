@@ -257,7 +257,7 @@ header.top {
   text-align: center;
 }
 header.top h1 {
-  font-size: 14.4rem;
+  font-size: 8.4rem;
   line-height: 0.7;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -289,7 +289,7 @@ header.top h1 .ofThe .of {
 }
 header.top h3 {
   margin: 0;
-  font-size: 2rem;
+  font-size: 1.5rem;
   color: #f5a623;
   position: relative;
   display: inline-block;
